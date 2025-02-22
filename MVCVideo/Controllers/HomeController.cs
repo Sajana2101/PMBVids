@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MVCVideo.Models;
 using System.Diagnostics;
+using MVCVideo.Models;
 
 namespace MVCVideo.Controllers
 {
